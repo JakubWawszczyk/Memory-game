@@ -1,8 +1,4 @@
-# Memory Game
-
-Prosty projekt gry memory w React.
-
-# React Memory Game
+ # React Memory Game
 
 A simple memory card game built with React. Flip the cards and match all pairs.
 
